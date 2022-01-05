@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 body{
     margin: 0;
@@ -54,12 +54,12 @@ h1{
 .link-button{
     text-decoration: none;
     padding: 15px 40px;
-    background-color: #0ab85b;
+    background-color: tomato;
     border-radius: 5px;
     font-size: 18px;
     color: white;
 }
 .link-button:hover{
-    background-color: tomato;
+    background-color: #0ab85b;
     transition-duration: 0.3s;
 }
