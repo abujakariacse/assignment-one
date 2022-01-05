@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 65px;
+    font-weight: 400;
+    font-family: 'Yeseva One', cursive;
+}
+
+.top-flexible{
+    display: flex;
+    position: left;
+    margin-left: 7%;
+}
+
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    margin-top: 15%;
+}
+
+.half-width p{
+    font-size: 18px;
+    font-weight: 500;
+    padding-right: 10%;
+    text-align: justify;
+    color: rgb(44, 43, 43);
+}
+#top-infobox{
+    margin-top: 10%;
+}
+.heading{
+    line-height: 50px;
+    border-left: 5px solid orangered;
+    border-radius: 3px;
+    padding-left: 2%;
+}
+#top-image{
+    margin-left: 10%;
+}
+#first-heading{
+    color: #0ab85b;
+}
+#sub-heading{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color: #0ab85b;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+.link-button:hover{
+    background-color: tomato;
+    transition-duration: 0.3s;
+}
