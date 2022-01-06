@@ -196,7 +196,7 @@ h3{
     margin-left: 15%;
 }
 #facilities-info{
-    margin-top: 5%;
+    margin-top: 7%;
 }
 #facilities-info h3{
     color: rgb(44, 43, 43);
@@ -206,6 +206,24 @@ h3{
     padding-right: 20%;
     color: rgb(44, 43, 43);
 }
-#last-img{
-    border-radius: 5px;
+
+footer{
+    background-color: black;
+    text-align: center;
+    height: 150px;
 }
+footer h3{
+    color: white;
+    font-size: 30px;
+    padding-top: 25px;
+    font-family: monospace;
+}
+.footer-year-color{
+    color: tomato;
+    margin-top: 100%;
+}
+footer p{
+    color: white;
+    font-family: sans-serif;
+}
+
