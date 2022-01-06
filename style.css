@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 
 body{
@@ -57,7 +58,7 @@ h3{
     margin-left: 10%;
 }
 #first-heading{
-    color: #0ab85b;
+    color: black;
 }
 #sub-heading{
     color: tomato;
@@ -195,6 +196,7 @@ h3{
     width: 65%;
     margin-left: 15%;
 }
+
 #facilities-info{
     margin-top: 7%;
 }
